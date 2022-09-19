@@ -1,0 +1,5 @@
+chave1: LevelUp
+chave2: Journey
+chave3: UntilTheEnd
+chave4: ProPlayer
+chave5: Aprendizado contínuo
